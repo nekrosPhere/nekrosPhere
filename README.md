@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👯 I’m looking to collaborate on ...
+
+![logoSinNegro](https://github.com/nekrosPhere/nekrosPhere/assets/74078049/c9724436-0fe8-4b93-b8f5-85a5dd1e8912)
+
+
+
 <!--
 **nekrosPhere/nekrosPhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
